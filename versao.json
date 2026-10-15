@@ -1,8 +1,10 @@
 {
-  "versao": "0.0.1",
+  "versao": "0.9.1",
   "instalador": "https://github.com/marcoscastrobr/trilha-downloads/releases/latest/download/Trilha-Setup.exe",
   "novidades": [
-    "Versão de preparação: o Trilha ainda não foi lançado."
+    "Primeira versão pública do Trilha.",
+    "Tela de login nova; a janela abre como você deixou.",
+    "Tela cheia (F11) sem manchas brancas."
   ],
   "pagina": "https://trilha-multitracks.pages.dev/",
   "apoio": "https://trilha-multitracks.pages.dev/apoiar",
